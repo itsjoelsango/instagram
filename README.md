@@ -1,3 +1,4 @@
+
 # Pre-work - *Photogram*
 
 **Photogram** is an Instagram like application for iOS.
@@ -28,10 +29,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<image src="https://github.com/itsjoelsango/instagram/assets/125734516/a8d534dc-14c8-4422-a5aa-827363b40d82" width=40% height=40%>
-
-  
-<image src="https://github.com/itsjoelsango/instagram/assets/125734516/2045b835-0d89-4349-9d95-f3fdf7d33629" width=40% height=40%>
+<image src="https://user-images.githubusercontent.com/125734516/262677923-9e323126-9063-4025-89f2-a987e4d0ebf6.gif" width=40% height=40%> | <image src="https://user-images.githubusercontent.com/125734516/262675992-cf32218c-620c-48a2-aaf2-f5eb607abc59.gif" width=40% height=40%>
 
 
 GIF created with [ezgif](https://ezgif.com).
